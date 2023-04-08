@@ -1,0 +1,43 @@
+                                                     
+ 
+										   ################# Graphics #################
+
+
+
+1. import matplotlib.pyplot as plt - This imports the pyplot module from the matplotlib library, which provides functions for creating various types of plots and charts.
+
+2. import seaborn as sns - This imports the seaborn library, which is built on top of matplotlib and provides a higher-level interface for creating more complex plots.
+
+3. import turtle - This imports the turtle module, which provides a simple graphics library for creating drawings and animations.
+
+4. import pygame - This imports the pygame library, which provides a more advanced graphics and game development framework.
+
+
+
+
+                                                      	  ################# Normal Operations ################# 
+
+
+
+
+1. import csv - This imports the csv module, which provides functions for reading and writing CSV files.
+
+2. import os - This imports the os module, which provides functions for interacting with the operating system, like creating directories, listing files in a directory, and executing shell commands.
+
+3. import sys - This imports the sys module, which provides information about the Python interpreter and the system it's running on, like the command line arguments, the current working directory, and the version of Python.
+
+4. import datetime - This imports the datetime module, which provides classes for working with dates, times, and time intervals.
+
+5. import time - This imports the time module, which provides functions for working with time, like measuring elapsed time, sleeping for a certain amount of time, and getting the current     time.
+
+6. import json - This imports the json module, which provides functions for encoding and decoding JSON data.
+
+7. import requests - This imports the requests library, which provides functions for making HTTP requests and working with APIs.
+
+8. import math - This imports the math module, which provides various mathematical functions and constants like pi, e, and trigonometric functions.
+
+9. import random - This imports the random module, which provides functions for generating random numbers, selecting random items from a sequence, and shuffling sequences.
+
+10. import datetime - This imports the datetime module, which provides classes for working with dates, times, and time intervals.
+
+11. import re - This imports the re module, which provides support for regular expressions, which are a powerful way of searching and manipulating text.
